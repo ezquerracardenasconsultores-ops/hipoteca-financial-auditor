@@ -1,0 +1,18 @@
+"""
+CONFIGURACIÓN GENERAL DEL PROYECTO
+HIPOTECA FINANCIAL AUDITOR
+"""
+
+APP_NAME = "Hipoteca Financial Auditor"
+
+VERSION = "1.0"
+
+AUTOR = "Jesús Ángel Cárdenas Simón"
+
+MONEDA = "S/"
+
+TEA = 14.15
+
+PLAZO = 180
+
+CAPITAL = 1343777.98
