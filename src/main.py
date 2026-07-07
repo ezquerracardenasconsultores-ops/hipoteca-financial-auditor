@@ -1,0 +1,8 @@
+print("=" * 60)
+print(" HIPOTECA FINANCIAL AUDITOR")
+print("=" * 60)
+print("Sistema Profesional de Auditoría Financiera")
+print("Versión 1.0")
+print("=" * 60)
+print("Proyecto iniciado correctamente.")
+print("=" * 60)
